@@ -1,0 +1,28 @@
+{
+    "words": [
+        {
+            "id": 1,
+            "word": "asada",
+            "explanation": "kekal; tidak berkesudahan: di dunia ini tidak ada yang abadi",
+            "char_count": 5
+        },
+        {
+            "id": 3,
+            "word": "jasad",
+            "explanation": "merah",
+            "char_count": 5
+        },
+        {
+            "id": 4,
+            "word": "reyaw",
+            "explanation": "berdasarkan abjad",
+            "char_count": 8
+        },
+        {
+            "id": 5,
+            "word": "kotes",
+            "explanation": "tidak sesuai dengan keadaan yang biasa; mempunyai kelainan; tidak normal: sejak kecelakaan itu dia menjadi abnormal",
+            "char_count": 8
+        }
+    ]
+}
